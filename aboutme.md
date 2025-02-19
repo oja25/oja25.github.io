@@ -4,10 +4,12 @@ title: About me
 subtitle: A brief personal description
 ---
 
-Hello, I am a experienced research scientist and teacher, and work in LSHTM’s distance learning MSc Infectious Disease teaching team and lead the module on Nutrition and Infection. I am currently deepening my knowledge of machine learning and data science by completing an MSc in Health Data Science. 
+Hello!
+I am an experienced research scientist and teacher, and work part-time in London School of Hygiene and Tropical Medicine's teaching team on the MSc in Infectious Disease by distance learning and lead the module on Nutrition and Infection. I am currently deepening my knowledge of Data Science by completing an MSc in Health Data Science. 
 
 ### Education
-- MSc Health Data Science (Ongoing)
-- PGCILT 
-- PhD Infectious Disease Immunology with Epidemiology PhD
-- BSc Cell and Molecular Biology
+- MSc, Health Data Science (Ongoing)
+- PG Cert, Teaching and Learning 
+- PhD, Infectious Disease Immunology with Epidemiology
+- Postgrad Diploma, Infectious and Tropical Diseases
+- BSc, Cell and Molecular Biology
