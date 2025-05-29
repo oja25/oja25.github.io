@@ -8,7 +8,7 @@ The need for mobile, robust, accurate and easy to use devices to detect emerging
 The WeD mini is a compact, palm-sized, diagnostic device, that can detect disease in real time. It has a wide range of potential applications around disease detection, as well as personal and public health monitoring and surveillance. A compact, palm-sized isothermal fluorescent diagnostic device, the WeD mini can reportedly be used equally effectively for point of care service, or in at-home diagnostics, and is adaptable to a range of diagnostic techniques. 
 
 The intelligent ioT device integrates real-time detection and automatic interpretation of results using a smartphone via a tailored cloud storage system ‘EzDx Cloud’. The EzDx cloud is a comprehensive disease detection system. It includes a user-friendly mini-program, a portable Point-of-Care fluorescence detector, and a diagnostic information management platform (EzDx Cloud). 
-
+![EzDx Cloud](images/ac4c01762_0007.gif)
 ![EzDx Cloud](https://pubs.acs.org/cms/10.1021/acs.analchem.4c01762/asset/images/medium/ac4c01762_0007.gif)
 
 
