@@ -21,9 +21,8 @@ The features of this innovative Internet of Things (IoT) molecular diagnostic de
 In partnership, the WeD mini and ExDx cloud offer a glimpse at the possibilities of integrated personal and public health possibilities in the cloud.
 
 
-A compact, palm-sized isothermal fluorescent diagnostic intelligent IoT
-device for personal health monitoring and beyond via one-tube/one-step
-LAMP-CRISPR assay
+### Here is a secondary heading
+_A compact, palm-sized isothermal fluorescent diagnostic intelligent IoT device for personal health monitoring and beyond via one-tube/one-step LAMP-CRISPR assay_
 [Manuscript](https://www.sciencedirect.com/science/article/pii/S0956566324009527#bib39)
 https://www.sciencedirect.com/science/article/pii/S0956566324009527#bib39
 
