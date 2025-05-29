@@ -1,7 +1,3 @@
-**Here is some bold text**
-
-## Here is a secondary heading
-
 The need for mobile, robust, accurate and easy to use devices to detect emerging infections and help control infectious disease outbreaks has gained particular prominence since the CoVID-19 pandemic. A group of researchers based in China have developed a tool that appears to generate results that match gold standard technologies to address this need. 
 
 ## Small, Dynamic and Powerful Disease Detection
@@ -9,9 +5,9 @@ The WeD mini is a compact, palm-sized, diagnostic device, that can detect diseas
 
 The intelligent ioT device integrates real-time detection and automatic interpretation of results using a smartphone via a tailored cloud storage system ‘EzDx Cloud’. The EzDx cloud is a comprehensive disease detection system. It includes a user-friendly mini-program, a portable Point-of-Care fluorescence detector, and a diagnostic information management platform (EzDx Cloud). 
 ![EzDx Cloud](images/ac4c01762_0007.gif)
-![EzDx Cloud](https://pubs.acs.org/cms/10.1021/acs.analchem.4c01762/asset/images/medium/ac4c01762_0007.gif)
+![EzDx Cloud](https://raw.githubusercontent.com/oja25/oja25.github.io/images/ac4c01762_0007.gif)
 
-
+![EzDx Cloud](images/ac4c01762_0007.gif)
 ![EzDx Cloud](https://pubs.acs.org/cms/10.1021/acs.analchem.4c01762/asset/images/medium/ac4c01762_0007.gif)
 
 ![Alt Text](/oja25/oja25.github.io/images/lamp_crispr_fig5.jpg)
