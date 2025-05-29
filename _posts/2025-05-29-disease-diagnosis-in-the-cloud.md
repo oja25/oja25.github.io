@@ -9,13 +9,13 @@ The WeD mini is a compact, palm-sized, diagnostic device, that can detect diseas
 
 The intelligent ioT device integrates real-time detection and automatic interpretation of results using a smartphone via a tailored cloud storage system ‘EzDx Cloud’. The EzDx cloud is a comprehensive disease detection system. It includes a user-friendly mini-program, a portable Point-of-Care fluorescence detector, and a diagnostic information management platform (EzDx Cloud). 
 
-![Alt Text](/oja25.github.io/images/lamp_crispr_fig5.jpg "Optional Title")
+![Alt Text](/oja25/oja25.github.io/images/lamp_crispr_fig5.jpg)
 
 (https://oja25.github.io/images/lamp_crispr_fig5.jpg](https://github.com/oja25/oja25.github.io/blob/main/images/lamp_crispr_fig2.jpg)
 images/lamp_crispr_fig2.jpg
 
 !(lamp_crispr_fig2.jpg)
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
 The researchers were able to demonstrate high sensitivity and specificity in detecting common respiratory viruses, with higher accuracy than rapid antigen and nucleic acid amplication tests, and equivalent performance to the gold standard real time polymerase chain reaction (RT-PCR) in detecting SARS-CoV2 and influenza viruses. The WeD mini device uses isothermal amplification methods and can operate at constant temperature. The device can support assays at varied fluorescent intensities and at temperatures between 0 and 100ºC. The authors report 100% sensitivity and specificity when the device was used with a One-Tube / One-Step loop mediated isothermal amplification (LAMP-CRISPR) assay to detect CoVID-19 and H1N1.
 
