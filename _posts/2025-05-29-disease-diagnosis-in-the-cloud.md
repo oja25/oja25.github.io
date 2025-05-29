@@ -9,7 +9,7 @@ The WeD mini is a compact, palm-sized, diagnostic device, that can detect diseas
 
 The intelligent ioT device integrates real-time detection and automatic interpretation of results using a smartphone via a tailored cloud storage system ‘EzDx Cloud’. The EzDx cloud is a comprehensive disease detection system. It includes a user-friendly mini-program, a portable Point-of-Care fluorescence detector, and a diagnostic information management platform (EzDx Cloud). 
 
-(https://oja25.github.io/images/lamp_crispr_fig5.jpg)
+(https://oja25.github.io/images/lamp_crispr_fig5.jpg](https://github.com/oja25/oja25.github.io/blob/main/images/lamp_crispr_fig2.jpg)
 images/lamp_crispr_fig2.jpg
 
 !(lamp_crispr_fig2.jpg)
