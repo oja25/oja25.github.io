@@ -4,8 +4,10 @@ The need for mobile, robust, accurate and easy to use devices to detect emerging
 The WeD mini is a compact, palm-sized, diagnostic device, that can detect disease in real time. It has a wide range of potential applications around disease detection, as well as personal and public health monitoring and surveillance. A compact, palm-sized isothermal fluorescent diagnostic device, the WeD mini can reportedly be used equally effectively for point of care service, or in at-home diagnostics, and is adaptable to a range of diagnostic techniques. 
 
 The intelligent ioT device integrates real-time detection and automatic interpretation of results using a smartphone via a tailored cloud storage system ‘EzDx Cloud’. The EzDx cloud is a comprehensive disease detection system. It includes a user-friendly mini-program, a portable Point-of-Care fluorescence detector, and a diagnostic information management platform (EzDx Cloud). 
+[[/oja25.github.io/blob/main/images/images_medium_ac4c01762_0007.gif|ALT TEXT]]
 
-[/images/path/to/image.ext|ALT TEXT]]
+
+[[/https://github.com/oja25/oja25.github.io/blob/main/images/images_medium_ac4c01762_0007.gif|ALT TEXT]]
 
 The researchers were able to demonstrate high sensitivity and specificity in detecting common respiratory viruses, with higher accuracy than rapid antigen and nucleic acid amplication tests, and equivalent performance to the gold standard real time polymerase chain reaction (RT-PCR) in detecting SARS-CoV2 and influenza viruses. The WeD mini device uses isothermal amplification methods and can operate at constant temperature. The device can support assays at varied fluorescent intensities and at temperatures between 0 and 100ºC. The authors report 100% sensitivity and specificity when the device was used with a One-Tube / One-Step loop mediated isothermal amplification (LAMP-CRISPR) assay to detect CoVID-19 and H1N1.
 
