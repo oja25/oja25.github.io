@@ -10,7 +10,7 @@ author: Onome
 
 navbar-links:
   About Me: "aboutme"
-  Blogs: " Disease Diagnosis in the Cloud"
+  #Blogs: " Disease Diagnosis in the Cloud"
 
 ################
 # --- Logo --- #
