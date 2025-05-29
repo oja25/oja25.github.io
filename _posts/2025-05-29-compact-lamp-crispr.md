@@ -11,6 +11,8 @@ The features of this innovative Internet of Things (IoT) molecular diagnostic de
 
 The WeD mini offers a glimpse at the possibilities of intergrated personal and public health in the cloud.
 
+A compact, palm-sized isothermal fluorescent diagnostic intelligent IoT device for personal health monitoring and beyond via one-tube/one-step LAMP-CRISPR assay
+https://www.sciencedirect.com/science/article/pii/S0956566324009527#bib39
 
-
-
+Mini-Program Enabled IoT Intelligent Molecular Diagnostic Device for Co-Detection and Spatiotemporal Mapping of Infectious Disease Pathogens
+https://pubs.acs.org/doi/10.1021/acs.analchem.4c01762
