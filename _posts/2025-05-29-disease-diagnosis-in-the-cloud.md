@@ -1,6 +1,6 @@
 The need for mobile, robust, accurate and easy to use devices to detect emerging infections and help control infectious disease outbreaks has gained particular prominence since the CoVID-19 pandemic. A group of researchers based in China have developed a tool that appears to generate results that match gold standard technologies to address this need. 
 
-## Small, Dynamic and Powerful Disease Detection
+## Small, Dynamic and Powerful Disease Detection Device
 The WeD mini is a compact, palm-sized, diagnostic device, that can detect disease in real time. It has a wide range of potential applications around disease detection, as well as personal and public health monitoring and surveillance. A compact, palm-sized isothermal fluorescent diagnostic device, the WeD mini can reportedly be used equally effectively for point of care service, or in at-home diagnostics, and is adaptable to a range of diagnostic techniques. 
 
 ![](https://github.com/oja25/oja25.github.io/blob/6ca05df8c3788a1fc1e23cd5d88dd5fafae1ebe0/images/lamp_crispr_fig5.jpg)
