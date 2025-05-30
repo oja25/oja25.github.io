@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Science & Social Justice & Data
+subtitle: Science, Social Justice & Data
 ---
 
 Hello!
